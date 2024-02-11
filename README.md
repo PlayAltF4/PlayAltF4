@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @PlayAltF4
+- 👀 I’m interested in Basket
+- 🌱 I’m currently learning Python
